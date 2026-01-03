@@ -1,0 +1,180 @@
+.index-container1 {
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+ 
+.index-text10 {
+  display: inline-block;
+}
+ 
+.index-text11 {
+  display: inline-block;
+}
+ 
+.index-text12 {
+  display: inline-block;
+}
+ 
+.index-text13 {
+  display: inline-block;
+}
+ 
+.index-text14 {
+  display: inline-block;
+}
+ 
+.index-text15 {
+  display: inline-block;
+}
+ 
+.index-text16 {
+  display: inline-block;
+}
+ 
+.index-text17 {
+  display: inline-block;
+}
+ 
+.index-text18 {
+  display: inline-block;
+}
+ 
+.index-text19 {
+  display: inline-block;
+}
+ 
+.index-text20 {
+  display: inline-block;
+}
+ 
+.index-text21 {
+  display: inline-block;
+}
+ 
+.index-text22 {
+  display: inline-block;
+}
+ 
+.index-text23 {
+  display: inline-block;
+}
+ 
+.index-text24 {
+  display: inline-block;
+}
+ 
+.index-text25 {
+  display: inline-block;
+}
+ 
+.index-text26 {
+  display: inline-block;
+}
+ 
+.index-text27 {
+  display: inline-block;
+}
+ 
+.index-text28 {
+  display: inline-block;
+}
+ 
+.index-text29 {
+  display: inline-block;
+}
+ 
+.index-text30 {
+  display: inline-block;
+}
+ 
+.index-text31 {
+  display: inline-block;
+}
+ 
+.index-text32 {
+  display: inline-block;
+}
+ 
+.index-text33 {
+  display: inline-block;
+}
+ 
+.index-text34 {
+  display: inline-block;
+}
+ 
+.index-text35 {
+  display: inline-block;
+}
+ 
+.index-text36 {
+  display: inline-block;
+}
+ 
+.index-text37 {
+  display: inline-block;
+}
+ 
+.index-text38 {
+  display: inline-block;
+}
+ 
+.index-text39 {
+  display: inline-block;
+}
+ 
+.index-text40 {
+  display: inline-block;
+}
+ 
+.index-text41 {
+  display: inline-block;
+}
+ 
+.index-text42 {
+  display: inline-block;
+}
+ 
+.index-text43 {
+  display: inline-block;
+}
+ 
+.index-link {
+  display: contents;
+}
+ 
+.index-container2 {
+  right: 50px;
+  border: 1px solid #ffffff5c;
+  bottom: 30px;
+  display: flex;
+  z-index: 22;
+  position: fixed;
+  box-shadow: 5px 5px 10px 0px rgba(31, 31, 31, 0.4);
+  min-height: auto;
+  align-items: center;
+  padding-top: 8px;
+  padding-left: 12px;
+  border-radius: 8px;
+  padding-right: 12px;
+  padding-bottom: 8px;
+  backdrop-filter: blur(6px);
+  background-color: rgba(41, 41, 41, 0.41);
+}
+ 
+.index-icon1 {
+  width: 24px;
+  margin-right: 4px;
+}
+ 
+.index-text44 {
+  color: white;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+}
