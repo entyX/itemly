@@ -1,0 +1,116 @@
+.testimonial-container {
+  width: 100%;
+  height: 836px;
+  margin: auto;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+  background-size: cover;
+  justify-content: center;
+  background-image: url("/starbg-900h.jpg");
+}
+ 
+.testimonial-thq-container-elm {
+  width: 1194px;
+  background: var(--dl-color-theme-neutral-light);
+  padding-top: var(--dl-layout-space-halfunit);
+  padding-left: 336px;
+  padding-bottom: var(--dl-layout-space-halfunit);
+  background-color: rgba(217, 217, 217, 0);
+}
+ 
+.testimonial-thq-testimonial-header-elm {
+  top: -28px;
+  right: -10px;
+  position: absolute;
+}
+ 
+.testimonial-thq-fragment19-elm {
+  display: contents;
+}
+ 
+.testimonial-thq-testimonial-divider-elm {
+  right: 144px;
+  width: 75%;
+  bottom: -4px;
+  position: absolute;
+}
+ 
+.testimonial-thq-testimonials-grid-elm {
+  right: 1px;
+  width: 1182px;
+  bottom: -12px;
+  height: 536px;
+  position: absolute;
+}
+ 
+.testimonial-thq-fragment11-elm {
+  display: contents;
+}
+ 
+.testimonial-thq-fragment12-elm {
+  display: contents;
+}
+ 
+.testimonial-thq-fragment10-elm {
+  display: contents;
+}
+ 
+.testimonial-thq-fragment14-elm {
+  display: contents;
+}
+ 
+.testimonial-thq-fragment15-elm {
+  display: contents;
+}
+ 
+.testimonial-thq-fragment13-elm {
+  display: contents;
+}
+ 
+.testimonial-thq-fragment17-elm {
+  display: contents;
+}
+ 
+.testimonial-thq-fragment18-elm {
+  display: contents;
+}
+ 
+.testimonial-thq-fragment16-elm {
+  display: contents;
+}
+ 
+.testimonial-thq-fragment21-elm1 {
+  display: contents;
+}
+ 
+.testimonial-thq-fragment22-elm1 {
+  display: contents;
+}
+ 
+.testimonial-thq-fragment20-elm {
+  display: contents;
+}
+ 
+.testimonial-thq-fragment21-elm2 {
+  display: contents;
+}
+ 
+.testimonial-thq-fragment22-elm2 {
+  display: contents;
+}
+ 
+.testimonial-thq-fragment21-elm3 {
+  display: contents;
+}
+ 
+.testimonial-thq-fragment22-elm3 {
+  display: contents;
+}
+ 
+.testimonialroot-class-name {
+  top: 2140px;
+  left: 0px;
+  position: absolute;
+}

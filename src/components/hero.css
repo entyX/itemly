@@ -1,0 +1,40 @@
+.hero-container1 {
+  width: 100%;
+  height: 400px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.hero-thq-hero-itemly-elm {
+  backdrop-filter: blur(5px);
+  background-size: cover;
+  background-image: url("/spacebg-1500w.jpg");
+}
+ 
+.hero-thq-hero-content-wrapper-elm {
+  height: 696px;
+}
+ 
+.hero-container2 {
+  display: none;
+}
+ 
+.hero-container3 {
+  display: contents;
+}
+ 
+
+ 
+.heroroot-class-name1 {
+  top: 85px;
+  left: 0px;
+  position: absolute;
+}
+ 
+.heroroot-class-name2 {
+  top: 85px;
+  left: 0px;
+  position: absolute;
+}
